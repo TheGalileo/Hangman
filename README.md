@@ -1,6 +1,8 @@
 # Hangman
 The popular word game, Hangman. Developed using Python2.7 and Tkinter for simple GUI.
 
+Credits:
+Due credits are to be given to the creators of py2exe. It was because of them that THIS can be run even on systems that don't have Python directories installed in them.
 
 Description :
 This is a simple coding task that I did during the slacking days of summer.
