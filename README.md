@@ -12,3 +12,4 @@ Suggestions:
 Some suggestions that are to be implemented are as follows:
 1. Activation of the enter key to submit the guesses.
 2. Adding the graphics of a hanging man.
+3. A better word.txt has to be included. There are some issues with the current one.
