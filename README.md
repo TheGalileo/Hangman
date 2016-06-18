@@ -3,6 +3,7 @@
 ->>> READY TO DOWNLOAD. CLICK ON THE 'Download as ZIP' link, on the right side.
 ->>> Updates are expected soon.
 ->>> Open the hangman.py file to go through the code.
+->>> Open the .exe file to play the game.
 
 The popular word game, Hangman. Developed using Python2.7 and Tkinter for simple GUI.
 
